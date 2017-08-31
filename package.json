@@ -1,0 +1,24 @@
+{
+  "name": "syncjs-nodebr-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougtq/syncjs-nodebr-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougtq/syncjs-nodebr-tutorial/issues"
+  },
+  "homepage": "https://github.com/dougtq/syncjs-nodebr-tutorial#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "standard": "^10.0.3"
+  }
+}
